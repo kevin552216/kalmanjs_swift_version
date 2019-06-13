@@ -1,4 +1,4 @@
-# SWift Adaptation of kalmanjs
+# Swift Adaptation of kalmanjs
 this repo is Swift Adaptation of kalmanjs repo(https://github.com/wouterbulten/kalmanjs)
 # Example Usage
 ``` swift

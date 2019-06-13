@@ -6,4 +6,5 @@ var KF : KalmanFilter = KalmanFilter()
 let output1 = KF.filter(z: Float(3))
 let output2 = KF.filter(z: Float(2))
 ```
-https://imgur.com/Iz67MDe
+![chart of rssi](https://imgur.com/Iz67MDe)
+

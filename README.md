@@ -1,5 +1,5 @@
 # SWift Adaptation of kalmanjs
-this repo is SWift Adaptation of kalmanjs repo(https://github.com/wouterbulten/kalmanjs)
+this repo is Swift Adaptation of kalmanjs repo(https://github.com/wouterbulten/kalmanjs)
 # Example Usage
 ``` swift
 var KF : KalmanFilter = KalmanFilter()

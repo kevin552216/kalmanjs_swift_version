@@ -1,4 +1,17 @@
+/*
+Simple Implementation of the Kalman Filter for 1D data, without any dependencies
+Originally written in JavaScript by Wouter Bulten
+Now rewritten in Swift
 
+License
+-------
+MIT License
+
+
+Author
+------
+Kevin Liao
+*/
 import Foundation
 
 

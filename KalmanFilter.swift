@@ -1,10 +1,3 @@
-//
-//  KF.swift
-//  nRFMeshProvision_Example
-//
-//  Created by 廖松陽 on 2019/6/13.
-//  Copyright © 2019 CocoaPods. All rights reserved.
-//
 
 import Foundation
 
